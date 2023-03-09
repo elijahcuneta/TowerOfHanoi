@@ -1,0 +1,799 @@
+fileFormatVersion: 2
+guid: 20a2e7b4e94bff449a4e920e811c8efc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5024646132494842946
+    second: PauseButton
+  - first:
+      213: -6046676426405116387
+    second: PauseButton_Pressed
+  - first:
+      213: 520943917345737923
+    second: Tower of Hanoi_UI Buttons_2
+  - first:
+      213: -5418203025994276146
+    second: Tower of Hanoi_UI Buttons_3
+  - first:
+      213: 3650733900776962872
+    second: Tower of Hanoi_UI Buttons_4
+  - first:
+      213: -8671697107000673887
+    second: Tower of Hanoi_UI Buttons_5
+  - first:
+      213: 3564367273723207936
+    second: AddButton
+  - first:
+      213: -825030511734377473
+    second: AddButton__Pressed
+  - first:
+      213: -1928097321319743145
+    second: RetryButton
+  - first:
+      213: 8168502371755011385
+    second: RetryButton_Pressed
+  - first:
+      213: 4381591740625247451
+    second: Tower of Hanoi_UI Buttons_10
+  - first:
+      213: 4064146953022265037
+    second: Tower of Hanoi_UI Buttons_11
+  - first:
+      213: -5962968630016506404
+    second: Tower of Hanoi_UI Buttons_12
+  - first:
+      213: 4568318857478554438
+    second: Tower of Hanoi_UI Buttons_13
+  - first:
+      213: 7493782923175027682
+    second: MinusButton
+  - first:
+      213: 6278746684065048065
+    second: MinusButton_Pressed
+  - first:
+      213: 1451477870897076154
+    second: UndoButton
+  - first:
+      213: -1002584580732094064
+    second: UndoButton_Pressed
+  - first:
+      213: 8221145312311738193
+    second: Tower of Hanoi_UI Buttons_18
+  - first:
+      213: 7521002412700357540
+    second: Tower of Hanoi_UI Buttons_19
+  - first:
+      213: 6986535075485055184
+    second: ResumeButton
+  - first:
+      213: -311189752761017214
+    second: ResumeButton_Pressed
+  - first:
+      213: 617863511229073280
+    second: Tower of Hanoi_UI Buttons_22
+  - first:
+      213: 3117898306548737597
+    second: Tower of Hanoi_UI Buttons_23
+  - first:
+      213: -5156538326017531700
+    second: ExitButton
+  - first:
+      213: 4146661043225390684
+    second: ExitButton_Pressed
+  - first:
+      213: -2513294868351511276
+    second: Tower of Hanoi_UI Buttons_26
+  - first:
+      213: -6748344214415792741
+    second: Tower of Hanoi_UI Buttons_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PauseButton
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2165
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c356929012bb540800000000000000
+      internalID: 5024646132494842946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseButton_Pressed
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2165
+        width: 297
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16056ca3d3e51ca0800000000000000
+      internalID: -6046676426405116387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower of Hanoi_UI Buttons_2
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2151
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc0b459bb3ca3700800000000000000
+      internalID: 520943917345737923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower of Hanoi_UI Buttons_3
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 2165
+        width: 297
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec22aa20e0daec4b0800000000000000
+      internalID: -5418203025994276146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower of Hanoi_UI Buttons_4
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 2135
+        width: 331
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b794de3230aa230800000000000000
+      internalID: 3650733900776962872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower of Hanoi_UI Buttons_5
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 2137
+        width: 314
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a931710d61f7a780800000000000000
+      internalID: -8671697107000673887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddButton
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 2213
+        width: 236
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001ac4f862d277130800000000000000
+      internalID: 3564367273723207936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AddButton__Pressed
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 2221
+        width: 224
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3b63bee17ec84f0800000000000000
+      internalID: -825030511734377473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetryButton
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1743
+        width: 312
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751ca56a3b50e35e0800000000000000
+      internalID: -1928097321319743145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RetryButton_Pressed
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1739
+        width: 297
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93da467e0a95c5170800000000000000
+      internalID: 8168502371755011385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower of Hanoi_UI Buttons_10
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1708
+        width: 311
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcd0c2397a8ecc30800000000000000
+      internalID: 4381591740625247451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower of Hanoi_UI Buttons_11
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1724
+        width: 295
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6d0e9fe10c66830800000000000000
+      internalID: 4064146953022265037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower of Hanoi_UI Buttons_12
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1692
+        width: 331
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd58119cf974f3da0800000000000000
+      internalID: -5962968630016506404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower of Hanoi_UI Buttons_13
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 1685
+        width: 314
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6434ab00ccde56f30800000000000000
+      internalID: 4568318857478554438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinusButton
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 1735
+        width: 236
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e36cb76dd34ff760800000000000000
+      internalID: 7493782923175027682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinusButton_Pressed
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 1753
+        width: 224
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106eb5ac7d6922750800000000000000
+      internalID: 6278746684065048065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndoButton
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1252
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7192eee6fa42410800000000000000
+      internalID: 1451477870897076154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UndoButton_Pressed
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1271
+        width: 296
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099fd20c2aa1612f0800000000000000
+      internalID: -1002584580732094064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower of Hanoi_UI Buttons_18
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1242
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f7533aa10671270800000000000000
+      internalID: 8221145312311738193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower of Hanoi_UI Buttons_19
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1232
+        width: 299
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a35cdba8d7ff5860800000000000000
+      internalID: 7521002412700357540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResumeButton
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 834
+        width: 648
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8f71982a825f060800000000000000
+      internalID: 6986535075485055184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResumeButton_Pressed
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 852
+        width: 631
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c10f0919e6eabf0800000000000000
+      internalID: -311189752761017214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower of Hanoi_UI Buttons_22
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 828
+        width: 650
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0870c720797139800800000000000000
+      internalID: 617863511229073280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower of Hanoi_UI Buttons_23
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 828
+        width: 630
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3621af8dfff44b20800000000000000
+      internalID: 3117898306548737597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExitButton
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 393
+        width: 650
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0a90786bb4078b0800000000000000
+      internalID: -5156538326017531700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExitButton_Pressed
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 403
+        width: 629
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e6665bf36eb8930800000000000000
+      internalID: 4146661043225390684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower of Hanoi_UI Buttons_26
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 403
+        width: 648
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415981c12abfe1dd0800000000000000
+      internalID: -2513294868351511276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower of Hanoi_UI Buttons_27
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 393
+        width: 630
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b952fa5f0b01952a0800000000000000
+      internalID: -6748344214415792741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
