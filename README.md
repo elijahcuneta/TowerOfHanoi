@@ -1,5 +1,5 @@
 # TowerOfHanoi
-A Tower of Hanoi Game - 2019
+A Tower of Hanoi Game
 
 Unity Version: 2019.3.3f1
 
